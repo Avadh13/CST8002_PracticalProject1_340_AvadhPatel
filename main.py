@@ -1,8 +1,6 @@
 """
 Course: CST8002 Programming Language Research Project
 Assessment: Practical Project Part 1 - Project Proof of Concept
-Professor: [Write Professor Name]
-Due Date: [Write Due Date]
 Author: Avadh Patel
 
 Description:
